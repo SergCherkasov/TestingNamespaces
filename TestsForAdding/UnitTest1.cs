@@ -1,10 +1,9 @@
-using System.Runtime.CompilerServices;
 using TestingNamespaces.Add;
 
 namespace TestsForAdding
 {
     [TestClass]
-    public class UnitTest1
+    public class TestAdding
     {
         [TestMethod]
         public void TestMethod1()
